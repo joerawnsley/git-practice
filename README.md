@@ -8,3 +8,5 @@ fourth line
 fifth line
 
 sixth line (edited) (again) (and again)
+
+Seventh line, testing commit signing on this one
